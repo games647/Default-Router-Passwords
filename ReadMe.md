@@ -3,7 +3,8 @@
 ## Description
 
 Many routes or W-Lan routers uses default passwords or passwords generated from the mac-address. There is no doubt
-that these techniques are insecure.
+that these techniques are insecure. This provides are documentation on how these passwords are generated and which 
+default passwords are used for specific devices.
 
 Besides this should also provide details about configuring your new device. Many vendors uses different
 default webinterface ip-addresses and login credentials. So this can be used as a reference for helping you out.
